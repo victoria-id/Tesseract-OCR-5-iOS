@@ -74,3 +74,9 @@ tesseract-*
 # GCOV code coverage files
 *.gcda
 *.gcno
+
+TesseractOCR/jpeg-*
+TesseractOCR/tiff-*
+TesseractOCR/libpng-*
+TesseractOCR/build
+TesseractOCR/install
